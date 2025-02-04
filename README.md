@@ -8,13 +8,7 @@ This repository contains a simple C++ exercise designed to complement a YouTube 
 
 ## Code Overview
 
-The provided C++ code demonstrates:
-
-*   Loading a DLL.
-*   Calling a function within the loaded DLL.
-*   Basic thread creation (using Win32 API and C++11 threads).
-
-The code is intentionally simple to facilitate learning through debugging and analysis.  It serves as a practical context for exploring the Windows Internals concepts covered in the course.
+The code demonstrates core concepts like process creation, thread management (including potential deadlock scenarios), and DLL loading/interaction, offering a practical context for exploring topics such as PE/PEB/TEB structures, calling conventions, DLL callbacks, and system calls.  By using debugging tools (like Visual Studio's debugger) and system analysis tools (like Process Monitor), learners can gain a deeper understanding of these Windows internals concepts through observation and experimentation with the provided code.
 
 ## How to Build and Run
 
