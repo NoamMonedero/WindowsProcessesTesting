@@ -4,7 +4,7 @@ This repository contains a simple C++ exercise designed to complement a YouTube 
 
 ## Related Course
 
-*   [Link to the YouTube Course](https://www.youtube.com/watch?v=I_nJltUokE0&t=269s)  *(Replace with the actual link if different)*
+*   [Link to the YouTube Course](https://www.youtube.com/watch?v=I_nJltUokE0&t=269s)  
 
 ## Code Overview
 
